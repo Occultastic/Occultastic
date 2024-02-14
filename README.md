@@ -1,4 +1,4 @@
-# Occultastic
+# Occultist
 
 ### Contact Information
 - Discord `@occultastic`
